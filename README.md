@@ -1,4 +1,4 @@
-# Interior+ dados, algoritmos e caminhos para a revitalização do interior de Portugal 
+# Interior+: Dados, algoritmos e caminhos para a revitalização do interior de Portugal 
 
 Projecto de análise documental e textual sobre o interior de Portugal, com foco em três eixos complementares: abandono rural, desenvolvimento rural e programas de apoio ao interior.
 
